@@ -1,0 +1,175 @@
+2022-06-01 15:45:55,313 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:45:55,515 [main] INFO Logger_file - Drag Drop Feature Started
+2022-06-01 15:45:55,516 [main] INFO Logger_file - Click on Views
+2022-06-01 15:45:57,493 [main] INFO Logger_file - Click on Drag and Drop
+2022-06-01 15:45:58,744 [main] INFO Logger_file - Drag and Dropping 
+2022-06-01 15:46:02,332 [main] INFO Logger_file - Dropped
+2022-06-01 15:46:02,437 [main] INFO Logger_file - Drag Drop Feature Ended
+2022-06-01 15:46:13,378 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:46:13,380 [main] INFO Logger_file - Gallery Swipe Feature Started
+2022-06-01 15:46:13,412 [main] INFO Logger_file - Click on View
+2022-06-01 15:46:15,689 [main] INFO Logger_file - Click on Gallery
+2022-06-01 15:46:16,915 [main] INFO Logger_file - Click on Photos
+2022-06-01 15:46:18,296 [main] INFO Logger_file - Swipe in Gallery
+2022-06-01 15:46:19,602 [main] INFO Logger_file - Check for Asssertion
+2022-06-01 15:46:20,211 [main] INFO Logger_file - Gallery Swipe Feature Ended
+2022-06-01 15:46:30,805 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:46:30,807 [main] INFO Logger_file - Hide and Show Buttons Feature Started
+2022-06-01 15:46:30,845 [main] INFO Logger_file - Click on Animation
+2022-06-01 15:46:33,262 [main] INFO Logger_file - Click on Hide and Show Animation
+2022-06-01 15:46:34,591 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:46:34,712 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:46:34,875 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:46:35,046 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:46:35,263 [main] INFO Logger_file - Assertion of Button 1
+2022-06-01 15:46:55,386 [main] INFO Logger_file - Assertion of Button 2
+2022-06-01 15:47:15,463 [main] INFO Logger_file - Assertion of Button 3
+2022-06-01 15:47:35,519 [main] INFO Logger_file - Assertion of Button 4
+2022-06-01 15:47:55,579 [main] INFO Logger_file - Hide Buttons Feature Ended
+2022-06-01 15:48:06,199 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:48:06,200 [main] INFO Logger_file - Hide and Show Buttons Feature Started
+2022-06-01 15:48:06,233 [main] INFO Logger_file - Click on Animation
+2022-06-01 15:48:08,483 [main] INFO Logger_file - Click on Hide and Show Animation
+2022-06-01 15:48:09,855 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:48:09,972 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:48:10,132 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:48:10,292 [main] INFO Logger_file - Click to hide Button
+2022-06-01 15:48:10,932 [main] INFO Logger_file - Click on Show Button
+2022-06-01 15:48:11,055 [main] INFO Logger_file - Assertion of Button 1
+2022-06-01 15:48:11,744 [main] INFO Logger_file - Assertion of Button 2
+2022-06-01 15:48:11,880 [main] INFO Logger_file - Assertion of Button 3
+2022-06-01 15:48:12,008 [main] INFO Logger_file - Assertion of Button 4
+2022-06-01 15:48:12,110 [main] INFO Logger_file - Show Buttons Feature Ended
+2022-06-01 15:48:22,705 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:48:22,706 [main] INFO Logger_file - Multiple Choice Feature Started that will be failed and save screenshot
+2022-06-01 15:48:22,738 [main] INFO Logger_file - Click on View
+2022-06-01 15:48:26,372 [main] INFO Logger_file - Click on Lists Option
+2022-06-01 15:48:26,822 [main] INFO Logger_file - Click on Singel Option
+2022-06-01 15:48:29,377 [main] INFO Logger_file - Click on Select Children
+2022-06-01 15:48:30,131 [main] INFO Logger_file - Assert of Children Selected
+2022-06-01 15:48:30,260 [main] INFO Logger_file - Assert of Children Selected
+2022-06-01 15:48:30,399 [main] INFO Logger_file - Store Screenshot in Folder
+2022-06-01 15:48:30,399 [main] INFO Logger_file - Save screenshot
+2022-06-01 15:48:41,775 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:48:41,777 [main] INFO Logger_file - Search Scrneario Feature Started
+2022-06-01 15:48:41,814 [main] INFO Logger_file - Click on app Option
+2022-06-01 15:48:44,113 [main] INFO Logger_file - Click on Search Option
+2022-06-01 15:48:45,460 [main] INFO Logger_file - Click on invoke Option
+2022-06-01 15:48:46,805 [main] INFO Logger_file - Send keys Prefill Option
+2022-06-01 15:48:46,953 [main] INFO Logger_file - Send keys in App data Option
+2022-06-01 15:48:47,525 [main] INFO Logger_file - Click on Search btn
+2022-06-01 15:48:48,087 [main] INFO Logger_file - Assert on Search btn
+2022-06-01 15:48:48,881 [main] INFO Logger_file - Search Scrneario Feature Ended
+2022-06-01 15:48:59,599 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:48:59,600 [main] INFO Logger_file - Search Scrneario Feature Started
+2022-06-01 15:48:59,630 [main] INFO Logger_file - Click on app Option
+2022-06-01 15:49:02,597 [main] INFO Logger_file - Click on Search Option
+2022-06-01 15:49:03,916 [main] INFO Logger_file - Click on invoke Option
+2022-06-01 15:49:05,196 [main] INFO Logger_file - Send keys Prefill Option
+2022-06-01 15:49:05,334 [main] INFO Logger_file - Send keys in App data Option
+2022-06-01 15:49:05,898 [main] INFO Logger_file - Click on Search btn
+2022-06-01 15:49:06,446 [main] INFO Logger_file - Assert on Search btn
+2022-06-01 15:49:07,234 [main] INFO Logger_file - Search Scrneario Feature Ended
+2022-06-01 15:49:18,326 [main] INFO Logger_file - Basic Set-up
+2022-06-01 15:49:18,327 [main] INFO Logger_file - Web View Feature Started
+2022-06-01 15:49:18,368 [main] INFO Logger_file - Click on view Option
+2022-06-01 15:49:23,418 [main] INFO Logger_file - Click on Webview Option
+2022-06-01 15:49:43,556 [main] INFO Logger_file - Store Screenshot in Folder
+2022-06-01 15:49:43,556 [main] INFO Logger_file - Save screenshot
+2022-06-01 16:09:23,097 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:09:23,471 [main] INFO Logger_file - Drag Drop Feature Started
+2022-06-01 16:09:23,472 [main] INFO Logger_file - Click on Views
+2022-06-01 16:09:25,297 [main] INFO Logger_file - Click on Drag and Drop
+2022-06-01 16:09:26,591 [main] INFO Logger_file - Drag and Dropping 
+2022-06-01 16:09:30,265 [main] INFO Logger_file - Dropped
+2022-06-01 16:09:30,416 [main] INFO Logger_file - Drag Drop Feature Ended
+2022-06-01 16:09:41,554 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:09:41,556 [main] INFO Logger_file - Gallery Swipe Feature Started
+2022-06-01 16:09:41,625 [main] INFO Logger_file - Click on View
+2022-06-01 16:09:43,902 [main] INFO Logger_file - Click on Gallery
+2022-06-01 16:09:44,053 [main] INFO Logger_file - Click on Photos
+2022-06-01 16:09:46,575 [main] INFO Logger_file - Swipe in Gallery
+2022-06-01 16:09:47,990 [main] INFO Logger_file - Check for Asssertion
+2022-06-01 16:09:48,554 [main] INFO Logger_file - Gallery Swipe Feature Ended
+2022-06-01 16:10:00,553 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:10:00,556 [main] INFO Logger_file - Hide and Show Buttons Feature Started
+2022-06-01 16:10:00,610 [main] INFO Logger_file - Click on Animation
+2022-06-01 16:10:03,089 [main] INFO Logger_file - Click on Hide and Show Animation
+2022-06-01 16:10:04,496 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:10:04,654 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:10:04,811 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:10:05,104 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:10:05,803 [main] INFO Logger_file - Assertion of Button 1
+2022-06-01 16:10:25,935 [main] INFO Logger_file - Assertion of Button 2
+2022-06-01 16:10:46,016 [main] INFO Logger_file - Assertion of Button 3
+2022-06-01 16:11:06,099 [main] INFO Logger_file - Assertion of Button 4
+2022-06-01 16:11:26,197 [main] INFO Logger_file - Hide Buttons Feature Ended
+2022-06-01 16:11:42,398 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:11:42,401 [main] INFO Logger_file - Hide and Show Buttons Feature Started
+2022-06-01 16:11:42,469 [main] INFO Logger_file - Click on Animation
+2022-06-01 16:11:45,327 [main] INFO Logger_file - Click on Hide and Show Animation
+2022-06-01 16:11:46,772 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:11:46,941 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:11:47,126 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:11:47,292 [main] INFO Logger_file - Click to hide Button
+2022-06-01 16:11:47,977 [main] INFO Logger_file - Click on Show Button
+2022-06-01 16:11:48,132 [main] INFO Logger_file - Assertion of Button 1
+2022-06-01 16:11:48,833 [main] INFO Logger_file - Assertion of Button 2
+2022-06-01 16:11:48,955 [main] INFO Logger_file - Assertion of Button 3
+2022-06-01 16:11:49,087 [main] INFO Logger_file - Assertion of Button 4
+2022-06-01 16:11:49,184 [main] INFO Logger_file - Show Buttons Feature Ended
+2022-06-01 16:12:00,991 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:12:00,993 [main] INFO Logger_file - Multiple Choice Feature Started that will be failed and save screenshot
+2022-06-01 16:12:01,046 [main] INFO Logger_file - Click on View
+2022-06-01 16:12:04,775 [main] INFO Logger_file - Click on Lists Option
+2022-06-01 16:12:05,177 [main] INFO Logger_file - Click on Singel Option
+2022-06-01 16:12:06,508 [main] INFO Logger_file - Click on Select Children
+2022-06-01 16:12:08,584 [main] INFO Logger_file - Assert of Children Selected
+2022-06-01 16:12:08,797 [main] INFO Logger_file - Assert of Children Selected
+2022-06-01 16:12:08,966 [main] INFO Logger_file - Store Screenshot in Folder
+2022-06-01 16:12:08,967 [main] INFO Logger_file - Save screenshot
+2022-06-01 16:12:20,767 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:12:20,770 [main] INFO Logger_file - Search Scrneario Feature Started
+2022-06-01 16:12:20,821 [main] INFO Logger_file - Click on app Option
+2022-06-01 16:12:23,138 [main] INFO Logger_file - Click on Search Option
+2022-06-01 16:12:24,508 [main] INFO Logger_file - Click on invoke Option
+2022-06-01 16:12:25,888 [main] INFO Logger_file - Send keys Prefill Option
+2022-06-01 16:12:26,043 [main] INFO Logger_file - Send keys in App data Option
+2022-06-01 16:12:26,674 [main] INFO Logger_file - Click on Search btn
+2022-06-01 16:12:27,245 [main] INFO Logger_file - Assert on Search btn
+2022-06-01 16:12:27,967 [main] INFO Logger_file - Search Scrneario Feature Ended
+2022-06-01 16:12:39,174 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:12:39,175 [main] INFO Logger_file - Search Scrneario Feature Started
+2022-06-01 16:12:39,218 [main] INFO Logger_file - Click on app Option
+2022-06-01 16:12:41,458 [main] INFO Logger_file - Click on Search Option
+2022-06-01 16:12:42,833 [main] INFO Logger_file - Click on invoke Option
+2022-06-01 16:12:44,162 [main] INFO Logger_file - Send keys Prefill Option
+2022-06-01 16:12:44,313 [main] INFO Logger_file - Send keys in App data Option
+2022-06-01 16:12:44,889 [main] INFO Logger_file - Click on Search btn
+2022-06-01 16:12:45,456 [main] INFO Logger_file - Assert on Search btn
+2022-06-01 16:12:46,259 [main] INFO Logger_file - Search Scrneario Feature Ended
+2022-06-01 16:12:57,366 [main] INFO Logger_file - Basic Set-up
+2022-06-01 16:12:57,367 [main] INFO Logger_file - Web View Feature Started
+2022-06-01 16:12:57,423 [main] INFO Logger_file - Click on view Option
+2022-06-01 16:13:05,670 [main] INFO Logger_file - Click on Webview Option
+2022-06-01 16:13:07,488 [main] INFO Logger_file - Click on Link Option
+2022-06-01 16:13:08,274 [main] INFO Logger_file - Assertion on Content
+2022-06-01 16:13:09,075 [main] INFO Logger_file - Web View Feature Ended
+2022-06-01 17:05:59,266 [main] INFO Logger_file - Basic Set-up
+2022-06-01 17:05:59,629 [main] INFO Logger_file - Drag Drop Feature Started
+2022-06-01 17:05:59,631 [main] INFO Logger_file - Click on Views
+2022-06-01 17:06:02,628 [main] INFO Logger_file - Save screenshot
+2022-06-01 17:06:48,602 [main] INFO Logger_file - Basic Set-up
+2022-06-01 17:06:48,813 [main] INFO Logger_file - Drag Drop Feature Started
+2022-06-01 17:06:48,813 [main] INFO Logger_file - Click on Views
+2022-06-01 17:06:50,785 [main] INFO Logger_file - Click on Drag and Drop
+2022-06-01 17:06:52,085 [main] INFO Logger_file - Drag and Dropping 
+2022-06-01 17:06:55,634 [main] INFO Logger_file - Dropped
+2022-06-01 17:06:55,712 [main] INFO Logger_file - Drag Drop Feature Ended
+2022-06-01 19:50:52,548 [main] INFO Logger_file - Basic Set-up
+2022-06-01 19:50:52,693 [main] INFO Logger_file - Drag Drop Feature Started
+2022-06-01 19:50:52,693 [main] INFO Logger_file - Click on Views
+2022-06-01 19:50:54,751 [main] INFO Logger_file - Click on Drag and Drop
+2022-06-01 19:50:55,926 [main] INFO Logger_file - Drag and Dropping 
+2022-06-01 19:50:59,399 [main] INFO Logger_file - Dropped
+2022-06-01 19:50:59,458 [main] INFO Logger_file - Drag Drop Feature Ended
